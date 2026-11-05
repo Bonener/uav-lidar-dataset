@@ -79,16 +79,3 @@ python scripts/plot_map_trajectory.py bags/underactuated-tunnel/2025-11-25-16-26
 ```
 
 > **注意：** bag 文件使用 Git LFS 管理，请先安装 [Git LFS](https://git-lfs.github.com/) 再 clone。
-
-## 引用
-
-如果本数据集对您的研究有帮助，请引用：
-
-```bibtex
-@misc{uav-lidar-dataset,
-  title  = {UAV LiDAR Dataset},
-  author = {IFSC GMLab},
-  year   = {2025},
-  url    = {https://github.com/ifsc-gmlab/uav-lidar-dataset}
-}
-```
